@@ -8,6 +8,7 @@ public class Main {
         int y = 20;
         System.out.println(x + y);
         System.out.println("sum is done");
+        System.out.println("new commit");
     }
 
 }
